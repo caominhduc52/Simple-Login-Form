@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Simple Login Form Using JSP And MySQL:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Simple_Login_Form_Using_JSP_And_MySQL_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Simple Login Form Using JSP And MySQL/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Simple Login Form Using JSP And MySQL" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
